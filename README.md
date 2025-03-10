@@ -6,9 +6,9 @@
 
 [![Ditto](https://cdn3.emoji.gg/emojis/73700-ditto.gif)](https://emoji.gg/emoji/73700-ditto)
 
-✨ My SOON-TO-BE-FAMOUS😂 Blog ✨
+✨ My LinkedIn Page ✨
 
-https://yeoossi.tistory.com/
+[https://www.linkedin.com/in/heedongjang/]
 
 ✨ My Technology Stack ✨
 
