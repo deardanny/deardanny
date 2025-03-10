@@ -2,11 +2,11 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeojisun&count_bg=%235EA627&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-✨ My Favorite Pokemon ✨
+✨ FAVORITE POKEMON ✨
 
 [![Ditto](https://cdn3.emoji.gg/emojis/73700-ditto.gif)](https://emoji.gg/emoji/73700-ditto)
 
-✨ My Technology Stack ✨
+✨ EXPERTISE ✨
 
 <p>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -48,7 +48,7 @@
   
   </p>
 
-✨ My Contact Information ✨
+✨ CONNECT WITH ME ✨
 
 <a href="https://www.linkedin.com/in/heedongjang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:daniroon2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
