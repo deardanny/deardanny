@@ -13,6 +13,7 @@ https://www.linkedin.com/in/heedongjang/
 ✨ My Technology Stack ✨
 
 <p>
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   <img src="https://img.shields.io/badge/python-3776AB?logo=Csharp&style=for-the-badge">
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
