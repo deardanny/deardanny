@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/user-attachments/assets/00bba317-5ebf-4fa5-a241-fe328e14e3c4)### Hi there 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeojisun&count_bg=%235EA627&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
@@ -13,8 +13,8 @@ https://www.linkedin.com/in/heedongjang/
 ✨ My Technology Stack ✨
 
 <p>
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  <img src="https://img.shields.io/badge/python-3776AB?logo=Csharp&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  
   <br>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
