@@ -1,4 +1,4 @@
-<!--타이틀 부분-->
+<!--타이틀 부분--> 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Heedong%20Jang&fontSize=90" />
 </div>
@@ -66,6 +66,6 @@
   </a>
   <a href="mailto:oka1313@gmail.com">
     <img
-      src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/daniroon2@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
