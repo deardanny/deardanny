@@ -10,8 +10,6 @@
 
 https://www.linkedin.com/in/heedongjang/
 
-내 기술 스택인데 어떻게 나누는 게 좋을까?
-
 ✨ My Technology Stack ✨
 
 <p>
@@ -54,7 +52,7 @@ https://www.linkedin.com/in/heedongjang/
   
   </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeojisun)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=deardanny)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
