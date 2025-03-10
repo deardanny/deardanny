@@ -9,7 +9,7 @@
 ✨ My LinkedIn Page ✨
 
 <a href="https://www.linkedin.com/in/heedongjang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:daniroon2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/daniroon2@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:daniroon2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ✨ My Technology Stack ✨
 
