@@ -8,7 +8,7 @@
 
 ✨ My LinkedIn Page ✨
 
-[https://www.linkedin.com/in/heedongjang/]
+https://www.linkedin.com/in/heedongjang/
 
 ✨ My Technology Stack ✨
 
