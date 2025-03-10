@@ -4,7 +4,7 @@
 
 ✨ My Favorite Pokemon ✨
 
-[![rolling_bulbasaur](https://emoji.gg/assets/emoji/2397-rolling-bulbasaur.gif)](https://emoji.gg/emoji/2397-rolling-bulbasaur)
+[![rolling_squirtle](https://emoji.gg/assets/emoji/2397-rolling-squirtle.gif)](https://emoji.gg/emoji/2397-rolling-squirtle)
 
 ✨ My SOON-TO-BE-FAMOUS😂 Blog ✨
 
