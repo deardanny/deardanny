@@ -6,11 +6,6 @@
 
 [![Ditto](https://cdn3.emoji.gg/emojis/73700-ditto.gif)](https://emoji.gg/emoji/73700-ditto)
 
-✨ My Contact Information ✨
-
-<a href="https://www.linkedin.com/in/heedongjang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:daniroon2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
 ✨ My Technology Stack ✨
 
 <p>
@@ -53,3 +48,7 @@
   
   </p>
 
+✨ My Contact Information ✨
+
+<a href="https://www.linkedin.com/in/heedongjang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:daniroon2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
