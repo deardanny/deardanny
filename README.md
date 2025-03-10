@@ -1,60 +1,63 @@
-<!-- 헤더 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Heedong%20Jang&fontSize=80&fontAlignY=40&desc=Welcome%20to%20My%20GitHub!&descAlignY=55" />
+### Hi there 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeojisun&count_bg=%235EA627&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-<!-- 간단한 소개 -->
-### ✨ Data Scientist ✨
-Passionate about building interactive web applications and diving into data science 📊.
 
-<br>
+✨ My Favorite Pokemon ✨
 
-<!-- GitHub 통계 -->
-<img src="https://github-readme-stats.vercel.app/api?username=oka1313&show_icons=true&theme=radical&hide_border=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oka1313&theme=radical&hide_border=true" width="49%" />
+[![rolling_bulbasaur](https://emoji.gg/assets/emoji/2397-rolling-bulbasaur.gif)](https://emoji.gg/emoji/2397-rolling-bulbasaur)
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oka1313&layout=compact&theme=radical&hide_border=true" />
+✨ My SOON-TO-BE-FAMOUS😂 Blog ✨
 
-<br>
+https://yeoossi.tistory.com/
 
-<!-- Tech Stack -->
-### 🚀 Tech Stack 🚀
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-1daabb.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/styled--components-DB7093.svg?style=for-the-badge&logo=styled-components&logoColor=ffd35b" />
+✨ My Technology Stack ✨
 
-<!-- Data Science Stack -->
-### 📊 Data Science 📊
-<img src="https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
+<p>
+  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=for-the-badge">
+  <br>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+  <br>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white"> 
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
+  <br>
 
-<!-- 공부 중인 기술 -->
-### 📚 Currently Learning 📚
-<img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
-<img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
+  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <br>
 
-<!-- Tools -->
-### 🛠 Tools 🛠
-<img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
-<img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37abff" />
+  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
+  <br>
+  
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <br>
+  
+  </p>
 
-<!-- IDE -->
-### 💻 IDEs & Editors 💻
-<img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
-<img src="https://img.shields.io/badge/jupyter-2C2C32.svg?style=for-the-badge&logo=jupyter&logoColor=F37726" />
 
-<!-- 연락처 -->
-### 📫 Contact 📫
-[<img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />](https://velog.io/@oka1313)
-[<img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:oka1313@gmail.com)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yeojisun)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 푸터 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
+
+<!--
+**yeojisun/yeojisun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
