@@ -25,8 +25,8 @@
   <img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">  
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> 
-  <br>
   <img src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white"> 
+  <br>
   <img src="https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white"> 
   <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"> 
   <img src="https://img.shields.io/badge/Apache_Spark-lightgrey?style=for-the-badge&logo=apachespark&logoColor=#E35A16"> 
